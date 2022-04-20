@@ -12,4 +12,4 @@
 - 😄 Pronouns: Battle || Baton
 <!-- - ⚡ Fun fact: ... -->
 
-![](https://github-readme-stats.vercel.app/api?username=Baton)
+![](https://github-readme-stats.vercel.app/api?username=battleboy-cxx)
