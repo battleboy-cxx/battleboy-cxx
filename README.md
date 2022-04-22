@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on hikvision intern and Ielts exam
-- 🌱 I’m currently learning Spring boot developing
+- 🌱 I’m currently learning JavaWeb developing
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
