@@ -9,7 +9,7 @@
   - Email: battleboy.cxx@gmail.com
   - Wechat: Baton-cxx
   - Blog: www.battleboy.top
-- 😄 Pronouns: Battle || Baton
+- 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: ... -->
 
 ![](https://github-readme-stats.vercel.app/api?username=battleboy-cxx)
