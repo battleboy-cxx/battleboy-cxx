@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hikvision intern and GRE exam
+- 🔭 I’m currently working on developing
 - 🌱 I’m currently learning JavaWeb developing
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
   - Email: battleboy.cxx@gmail.com
   - Wechat: Baton-cxx
-  - Blog: www.battleboy.top
+  - Blog: blog.battleboy.top
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: ... -->
 
