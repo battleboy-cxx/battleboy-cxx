@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing
-- 🌱 I’m currently learning JavaWeb developing
+- 🔭 I’m currently planing to learn some front-end framework
+- 🌱 I’m currently trying to do some full stack project as well as preparing coding exercise for the comming 24 summer intern
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
