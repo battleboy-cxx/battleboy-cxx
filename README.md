@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xiaxuan Chen 👨‍💻</h1>
 
 - 🌱 I’m currently trying to do some full stack project as well as preparing coding exercise for the coming 24 summer intern
-- 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
